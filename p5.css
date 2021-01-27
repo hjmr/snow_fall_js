@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    color: #ffffff;
+}
+
+body #wrapper {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+
+.centered {
+    position: fixed;
+    top: 45%;
+    left: 20%;
+    width: 80%;
+    margin-top: -50px;
+    margin-left: -100px;
+}
+
